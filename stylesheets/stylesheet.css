@@ -210,9 +210,10 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 670px;
+  max-width: 1500px;
   padding: 20px 10px;
   margin: 0 auto;
+  width: 670px;
 }
 
 
@@ -287,16 +288,21 @@ Full-Width Styles
   font-size: 135%;
   color: rgb(100, 116, 131);
   font-weight: 500;
+
 }
 
 .middle_grid {
 	margin-top: 20px;	
+  width: 840px;
+  margin: 20px auto 0px auto;
 }
 
  .middle_grid p {
   width: 370px;
   text-align: left;
  } 
+
+
 
 
 
@@ -325,14 +331,12 @@ Full-Width Styles
 
 
 .col1 {
-
-  margin-left: 24.75%;
   float: left;
 }
 
 .col2 {
   margin-left: 100px;
-	float: left;
+  float: left;
 }
 
 
